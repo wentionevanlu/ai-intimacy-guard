@@ -1,0 +1,7 @@
+{
+  "name": "AI Intimacy Guard",
+  "version": "1.0.0",
+  "description": "阻止在亲密场景中使用快捷回复，触发AI情绪回应。",
+  "author": "wention ",
+  "entry_point": "plugin.js"
+}
